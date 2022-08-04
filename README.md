@@ -17,6 +17,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/WongKinYiu/yolov7
+git clone https://github.com/Taeyoung96/Yolo-to-COCO-format-converter
 ```
 
 ## Step for get coco dataset metric Results
